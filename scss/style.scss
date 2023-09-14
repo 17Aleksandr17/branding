@@ -55,7 +55,6 @@ body {
     transition: color 0.3s;
     &:hover {
         color: #FF7549;
-        text-decoration: underline;
     }
     &:active {
         color: #233B99;
@@ -91,6 +90,7 @@ body {
     }
 }
 .link-btn_white {
+    color: #181A3F;
     border: 2px solid #181A3F;
     background-color: #fff;
     &:hover {
